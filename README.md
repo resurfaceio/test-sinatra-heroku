@@ -1,2 +1,2 @@
-# test-sinatra-heroku
-Sinatra test app for Heroku
+# test-sinatra
+Example REST API built with Sinatra
